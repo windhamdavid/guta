@@ -1,0 +1,20 @@
+{
+  "predef": [
+    "console",
+    "exports",
+    "module",
+    "require",
+    "__dirname",
+    "secure"
+  ],
+	"node": true,
+	"esnext": true,
+	"bitwise": true,
+	"curly": true,
+	"immed": true,
+	"newcap": true,
+	"noarg": true,
+	"undef": true,
+	"unused": "vars",
+	"strict": false
+}
